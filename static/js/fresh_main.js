@@ -49,53 +49,34 @@ $(document).ready(function () {
 
                 //$('#solution-div').text("SOLUTION:\n");
                 if(data === 'Low Fresh - Below Best'){
-                     $('#solution-div').text("ABOUT:\n");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("\n<br/>");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("SYMPTOMS:\n");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("\n<br/>");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("SOLUTION:\n");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("\n<br/>");
+                     $('#solution-div').append("HOW TO KEEP TEA LEAVES FRESH?:\n");
                      $('#solution-div').append("<br/>");
                      $('#solution-div').append("<br/>");
-                     $('#solution-div').append("REFERENCE LINK: ");
+                     $('#solution-div').append("\nDO<br/>Store Tea In an Airtight Container<br/>Keep Tea Dry>br/>Stay Away from Scents<br/><br/>DON'T<br/>Keep Tea Out In the Sunlight</br>Open Too Much Tea<br/>");
+                     $('#solution-div').append("<br/>");
+                     $('#solution-div').append("<br/>");
+                     $('#solution-div').append("REFERENCE LINK: https://bit.ly/3gMfeaf");
+                     $('#solution-div').append("<br/>");
                      $('#solution-div').append("<br/>");//$('#solution-div').attr('style','color:red;');
                 }else if(data === 'Low Fresh - Best'){
-                     $('#solution-div').text("ABOUT:\n");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("\n <br/>");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("SYMPTOMS:\n");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("\n<br/>");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("SOLUTION:\n");
-                     $('#solution-div').append("<br/>");
-                     /*$('#solution-div').append("\nPestalotiopsis is a genus of ascomycete fungi. <br/> Pestalotiopsis species are known as plant pathogens. <br/> Chemical treatments with Topsin 70 WDG and Topsin 500 SC. Prepare a solution of 0.05 – 0.1% (5 or 10 g per 10 litres of water) and spray each plant with 0.5 l (of the solution); Blight, produced by Phythophtora infestans."); */
-                     $('#solution-div').append("\n<br/>");
+                     $('#solution-div').append("HOW TO KEEP TEA LEAVES FRESH?:\n");
                      $('#solution-div').append("<br/>");
                      $('#solution-div').append("<br/>");
-                     $('#solution-div').append("REFERENCE LINK: ");
-                     $('#solution-div').append("<br/>");//$('#solution-div').attr('style','color:green;');
+                     $('#solution-div').append("\nAs tea leaves don’t expire easily, it’s quite possible to store them for a longer time than their expiration period. Tea leaves will stay fresh as long as you can keep them isolated. Most tea leaves are sold in paper or plastic bags. These bags can’t be sealed once they’re opened, and even if they can be sealed, that won’t be enough to keep them safe. <br/> So, it’s highly recommended to store these in tin cans with a tight sealing. If you manage to store them properly, then you’ll be able to keep them fresh for a pretty long time.A crucial thing to do is keep the tea leaves away from the mold. If they get moldy, they will lose their color, fragrance, and taste very soon. <br/>As long as you can keep them safe from these elements, they will be safe.<br/>");
+                     $('#solution-div').append("<br/>");
+                     $('#solution-div').append("<br/>");
+                     $('#solution-div').append("REFERENCE LINK: https://bit.ly/3t4vHvo");
+                     $('#solution-div').append("<br/>");
+                     $('#solution-div').append("<br/>"); //$('#solution-div').attr('style','color:green;');
                 }else if(data === 'Low Fresh - Poor'){
-                     $('#solution-div').text("ABOUT:\n");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("\n<br/>");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("SYMPTOMS:\n");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("\n<br/>");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("SOLUTION:\n");
-                     $('#solution-div').append("<br/>");
-                     $('#solution-div').append("\n <br/>");
+                     $('#solution-div').append("HOW TO KEEP TEA LEAVES FRESH?:\n");
                      $('#solution-div').append("<br/>");
                      $('#solution-div').append("<br/>");
-                     $('#solution-div').append("REFERENCE LINK: ");
+                     $('#solution-div').append("\nTea must be kept free from oxygen and heat. Tea must be kept away from light and from strong odors. Tea must be kept away from moisture and is best when stored in bulk.<br/>");
+                     $('#solution-div').append("<br/>");
+                     $('#solution-div').append("<br/>");
+                     $('#solution-div').append("REFERENCE LINK: https://bit.ly/2V57458");
+                     $('#solution-div').append("<br/>");
                      $('#solution-div').append("<br/>");
                      //$('#solution-div').attr('style','color:yellow;');
                 }
